@@ -5,4 +5,3 @@ Greetings! I'm Arpan, an aspiring full stack web developer with a passion for cr
 Dedicated to continuous learning and staying up-to-date with the ever-evolving tech landscape. <br>
 With a heart full of curiosity and a mind open to new experiences, I'm eager to embrace the challenges and opportunities that awaits me, ready to make the most of this as I navigate through the most transformative chapter of my life. <br>
 Looking forward to join everyone in this endless journey of ever evolving tech.
-Student at Lovely Professional University.
